@@ -22,7 +22,7 @@ Podés usarlo, modificarlo y distribuirlo libremente, siempre citando la autorí
    ```bash
    git clone https://github.com/Sof-0007/djangotutorial.git
    cd djangotutorial
-   
+
 ____________________________________________________________________________________________________________
 
 # Survey project with Django
