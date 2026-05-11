@@ -1,0 +1,12 @@
+Por defecto, INSTALLED_APPS contiene las siguientes aplicaciones, todas las cuales Ven con Django:
+
+django.contrib.admin– El sitio de administración. Lo usarás en breve.
+django.contrib.auth– Un sistema de autenticación.
+django.contrib.contenttypes– Un marco para tipos de contenido.
+django.contrib.sessions– Un marco de sesión.
+django.contrib.messages– Un marco de mensajería.
+django.contrib.staticfiles– Un marco para la gestión archivos estáticos.
+
+
+Guarde estos cambios e inicie un nuevo shell interactivo de Python. (Si a El mensaje de tres chevrones (>>>) indica que todavía estás en el shell, necesitas salga primero usando exit()).
+ Correr De nuevo para recargar Los modelos.python manage.py shell

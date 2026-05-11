@@ -1,0 +1,13 @@
+li a {
+    color: green;
+}
+
+
+
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'polls/style.css' %}">
+
+
+
+
